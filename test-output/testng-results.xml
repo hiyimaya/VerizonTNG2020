@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30170" started-at="2020-03-10T22:01:24Z" finished-at="2020-03-10T22:01:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30170" started-at="2020-03-10T22:01:24Z" finished-at="2020-03-10T22:01:54Z">
+      <class name="Tests.SmartPhoneTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.SmartPhoneTest@6f7fd0e6]" name="setup" is-config="true" duration-ms="14901" started-at="2020-03-10T22:01:24Z" finished-at="2020-03-10T22:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:Tests.SmartPhoneTest@6f7fd0e6]" name="getTitle" duration-ms="71" started-at="2020-03-10T22:01:39Z" description="Smartphones - Buy The Newest Cell Phones | Verizon Wireless" finished-at="2020-03-10T22:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.SmartPhoneTest@6f7fd0e6]" name="setup" is-config="true" duration-ms="10298" started-at="2020-03-10T22:01:39Z" finished-at="2020-03-10T22:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="phoneToSmartClick()[pri:2, instance:Tests.SmartPhoneTest@6f7fd0e6]" name="phoneToSmartClick" duration-ms="4634" started-at="2020-03-10T22:01:49Z" finished-at="2020-03-10T22:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneToSmartClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.SmartPhoneTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="208" started-at="2020-03-10T22:01:54Z" finished-at="2020-03-10T22:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.SmartPhoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
